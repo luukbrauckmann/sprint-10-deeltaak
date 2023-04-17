@@ -9,6 +9,8 @@ Toon een screenshot van de performance test.
 
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
+[Uitgebreide rapportage](https://github.com/luukbrauckmann/sprint-10-deeltaak/wiki/PageSpeed-Insights)
+
 
 ## Licentie
 
