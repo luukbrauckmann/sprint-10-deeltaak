@@ -1,12 +1,11 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Performance Audit 
+# Amac
 
-Doe een Performance Audit test op een bestaande website en rapporteer daar over.
+![image](https://user-images.githubusercontent.com/47314813/232478210-38ce19bf-ff66-4021-982a-b17c44b14a14.png)
 
-## Titel Website
+Amac is een webwinkel voor Apple producten. Ik heb op 17 april een performance test gedaan m.b.v [PageSpeen Insights](https://pagespeed.web.dev/)
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
 
 Toon een screenshot van de performance test.
 
