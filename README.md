@@ -1,5 +1,3 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Amac
 
 ![image](https://user-images.githubusercontent.com/47314813/232478210-38ce19bf-ff66-4021-982a-b17c44b14a14.png)
