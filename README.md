@@ -7,8 +7,7 @@ Amac is een webwinkel voor Apple producten. Ik heb op 17 april een performance t
 ## Samenvatting
 ![image](https://user-images.githubusercontent.com/47314813/232489567-8cffc03b-4536-46c9-8a50-9cb8c6900831.png)
 
-V
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+Het valt mij op dat Amac heel veel resources inlaadt. De recourses bestaan uit JavaScript, CSS, Afbeeldingen & fonts. Wanneer je de HTML bekijkt wordt het er ook niet beter op. Amac heeft een enorme DOM tree van meer dan 5.000 elementen.
 
 [Uitgebreide rapportage](https://github.com/luukbrauckmann/sprint-10-deeltaak/wiki/PageSpeed-Insights)
 
